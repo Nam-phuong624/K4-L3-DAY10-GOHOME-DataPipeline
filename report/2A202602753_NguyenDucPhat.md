@@ -9,7 +9,7 @@
 | Khóa/Lớp         | K4-L3-DAY10                         |
 | Tên nhóm         | GOHOME                               |
 | Vai trò chính    | RAG & Vector Index Specialist        |
-| Repository         | https://github.com/Nam-phuong624/K4-L3A-Day10-Data-Pipeline-Data-Observability        |
+| Repository         | https://github.com/Nam-phuong624/K4-L3-DAY10-GOHOME-DataPipeline        |
 | Ngày hoàn thành | 2026-09-25                           |
 
 ## 2. Vai trò và phạm vi công việc

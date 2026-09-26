@@ -12,7 +12,7 @@
 |---:|---|---|---|---|---|
 | 1 | Chử Trần Phương Nam | `2A202602675` | | Trưởng nhóm / Pipeline Integrator (`core/`, `phase1.py`, `corruption_flow.py`) | `report/2A202602675_ChuTranPhuongNam.md` |
 | 2 | Ngụy Khắc Phi Long | `2A202602532` | | Data Foundation & Recovery (`crossref.py`, `cleaning.py`, raw data, idempotent repair) | `report/2A202602532_NguyKhacPhiLong.md` |
-| 3 | Nguyễn Đức Phát | `2A202602753` | | RAG & Vector Index (`retrieval/index.py`, `embeddings.py`, ChromaDB) | `report/2A202602753_NguyenDucPhat.md` |
+| 3 | Nguyễn Đức Phát | `2A202602753` | nguyenducphat.edu@gmail.com | RAG & Vector Index (`retrieval/index.py`, `embeddings.py`, ChromaDB) | `report/2A202602753_NguyenDucPhat.md` |
 | 4 | Đỗ Thành Đạt | `2A202602874` | | Observability & Evaluation (`quality.py` GX 1.x, `testset.py`, `reporting.py`) | `report/2A202602874_DoThanhDat.md` |
 
 ---
